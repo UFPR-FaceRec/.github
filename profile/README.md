@@ -8,12 +8,12 @@ Organização para discussão e desenvolvimento das atividades do grupo de pesqu
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 
-## 📚 Projetos
+<!--## 📚 Projetos
 
 ### UFPR-PEPs • 🔄 Em Andamento
 Dataset de imagens de pessoas politicamente expostas para pesquisa em reconhecimento facial.
 
-
+-->
 ---
 
 **Orientador:** Prof Dr. David Menotti
